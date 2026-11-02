@@ -11,7 +11,7 @@ export default defineConfig({
 
 export default defineConfig({
   plugins: [react()],
-  base: "/ScraplordsHub/",
+  base: "/Scraplords.com/",
 });
 
 
